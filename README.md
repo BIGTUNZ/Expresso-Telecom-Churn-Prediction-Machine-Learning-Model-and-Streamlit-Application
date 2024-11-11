@@ -1,0 +1,2 @@
+# Expresso-Telecom-Churn-Prediction-Machine-Learning-Model-and-Streamlit-Application
+This project predicts customer churn for Expresso, an African telecom company. Using the Expresso churn dataset, it preprocesses data, trains a classifier to predict churn, and deploys a Streamlit app. Users input customer details to get real-time churn predictions, combining data science and app development for customer retention insights.
