@@ -1,5 +1,5 @@
-streamlit
-scikit-learn
+streamlit==1.39.0
+scikit-learn==1.5.2
 seaborn
 matplotlib
-scipy
+scipy==1.14.1
