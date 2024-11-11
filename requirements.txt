@@ -2,6 +2,3 @@ scikit-learn
 seaborn
 matplotlib
 scipy
-matplotlib.pyplot
-lightgbm
-joblib
